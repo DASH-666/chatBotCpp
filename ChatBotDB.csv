@@ -1,0 +1,41 @@
+linux operating system basics, Linux is a free and open-source operating system used in servers. Desktops. And embedded devices.
+linux kernel system core, The kernel is the core of the operating system. It manages hardware and system resources.
+linux shell command line interface, The shell is a text-based interface that lets you run commands and interact with Linux.
+bash shell linux commands, Bash is the most common shell in Linux. It supports scripting and command execution.
+basic linux commands list, Some basic Linux commands include ls. cd. pwd. mkdir. rm. cp. mv. and touch.
+ls command list files, The ls command lists files and directories in the current folder. Use ls -l for details.
+cd command change directory, The cd command changes the current working directory. Example: cd Documents.
+pwd command show current directory, The pwd command prints the current working directory path.
+mkdir command create folder, The mkdir command creates a new directory. Example: mkdir new_folder.
+rm command delete file folder, The rm command deletes files or folders. Use rm -r for directories.
+cp command copy file folder, The cp command copies files or folders. Example: cp file.txt backup.txt.
+mv command move rename file, The mv command moves or renames files. Example: mv old.txt new.txt.
+touch command create empty file, The touch command creates an empty file. Example: touch notes.txt.
+cat command view file content, The cat command displays the contents of a file. Example: cat notes.txt.
+nano editor edit file terminal, Nano is a simple text editor for editing files in the terminal.
+vim editor advanced file editing, Vim is a powerful editor for advanced users. It supports modes and scripting.
+sudo command root access, The sudo command lets you run commands with administrator privileges.
+apt install software linux, Use sudo apt install <package> to install software on Debian-based systems.
+update upgrade linux system, Use sudo apt update && sudo apt upgrade to update your system packages.
+best linux distro for beginners, Good beginner-friendly Linux distros include Linux Mint. Ubuntu. And Debian.
+best linux distro for advanced users, Advanced users often prefer Arch Linux or NixOS for customization and control.
+open source software free modify, Open source software is free to use. Modify. And distribute.
+terminal linux command interface, The terminal is a command-line interface to interact with the Linux system.
+linux programming development environment, Linux is a great platform for programming. It supports many languages and powerful tools.
+best programming language for linux system, Popular languages for Linux include C. Python. Bash. And C++. Each has its own strengths.
+linux kernel written in c language, The Linux kernel is mostly written in C. With some parts in assembly language.
+who created linux operating system, Linux was created by Linus Torvalds in 1991 as a free and open-source alternative to Unix.
+linux programming tools editors compilers, Linux offers tools like gcc. make. gdb. nano. vim. and VS Code for development.
+python programming on linux system, Python works very well on Linux. You can run scripts. Build apps. And use powerful libraries.
+c programming on linux kernel level, C is used for low-level programming in Linux. Including kernel and system-level development.
+bash scripting linux automation tasks, Bash scripting helps automate tasks in Linux. It's widely used for system administration.
+linux development environment setup, You can set up a Linux dev environment with gcc. Python. Git. And your favorite editor.
+
+hi hello greetings chatbot, Hello! How can I help you today?
+hey hi chatbot linux, Hi there! Ready to talk about Linux? Ask me anything.
+hello chatbot assistant linux, Hello! I'm your Linux assistant. What would you like to learn today?
+thanks thank you chatbot, You're welcome! Happy to help.
+thank you chatbot help, No problem! Let me know if you have more questions.
+thanks chatbot linux help, Glad I could help. Feel free to ask more about Linux anytime.
+bye goodbye see you, Goodbye! Have a great day.
+exit quit chatbot, Exiting the chat. See you next time!

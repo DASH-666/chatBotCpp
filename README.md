@@ -1,6 +1,6 @@
 # chatBotCpp
 This is a simple chatbot I made with C++ for my university project.  
-The program is cross-platform, but I tested it on Linux.  
+The program is cross-platform, but I tested it only on Linux.  
 No need to recompile after making changes to the DB files :)
 
 # ChatBotDB.csv

@@ -1,3 +1,5 @@
+This repository is just a backup. I do not provide any support for it. I am not responsible for any damage this project may cause to your system. It is what it is.
+
 # chatBotCpp
 This is a simple chatbot I made with C++ for my university project.  
 The program is cross-platform, but I tested it only on Linux.  
@@ -41,8 +43,3 @@ g++ -O2 ChatBot.cpp -o chatbot-bin
 ```
 
 
-
-
-
-
-this is made by parsa hn
